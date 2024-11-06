@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "eval.html",
+    "href": "eval.html",
+    "title": "FluSight Forecast Hub Dashboard",
+    "section": "",
+    "text": "this is replaced"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This is a dashboard for the FluSight forecasting challenge that is organized by the US CDC.\n\nView The Latest Forecasts\n\nThe target data for the FluSight challenge is hospitalizations with influenza as reported to the National Healthcare Safety Network (NHSN); this data is publicly available through the CDC’s Weekly Hospital Respiratory Data (HRD) Metrics dataset.\nFor the evaluations, we have excluded predictions for two reference dates that were substantively impacted by NHSN reporting issues: 2024-11-23 and 2025-01-25.\n\n\n\n\n\n\nNote\n\n\n\nThe CDC notes that:\n\nData for reporting dates through April 30, 2024 represent data reported during a previous mandated reporting period as specified by the HHS Secretary. Data for reporting dates May 1, 2024–October 31, 2024 represent voluntarily reported data in the absence of a mandate. Data for reporting dates beginning November 1, 2024 represent data reported during a current mandated reporting period."
+  },
+  {
+    "objectID": "forecast.html",
+    "href": "forecast.html",
+    "title": "FluSight Forecast Hub Dashboard",
+    "section": "",
+    "text": "this is replaced"
+  }
+]
