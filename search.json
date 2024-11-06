@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "forecast.html",
+    "href": "forecast.html",
+    "title": "FluSight Forecast Hub Dashboard",
+    "section": "",
+    "text": "this is replaced"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This is a dashboard for the FluSight forecasting challenge that is organized by the US CDC. A page with forecast evaluations will be added at a later date.\n\nView The Latest Forecasts"
+  }
+]
