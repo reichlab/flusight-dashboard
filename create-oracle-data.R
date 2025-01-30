@@ -1,8 +1,13 @@
-target_data <- readr::read_csv("https://raw.githubusercontent.com/cdcepi/FluSight-forecast-hub/refs/heads/main/target-data/target-hospital-admissions.csv")
-oracle_output <- target_data |>
-  dplyr::filter(location != "US") |>
-  dplyr::select(-weekly_rate, -location_name) |>
-  dplyr::rename(target_end_date = date, oracle_value = value) |>
-  dplyr::cross_join(data.frame(horizon = 0:3))
+target_data <- read.csv("https://raw.githubusercontent.com/cdcepi/FluSight-forecast-hub/refs/heads/main/target-data/target-hospital-admissions.csv")
+
+# keep selected columns
+oracle_output <- target_data[c("date", "location", "value")]
+colnames(oracle_output) <- c("target_end_date", "location", "oracle_value")
+
+# drop US
+oracle_output <- oracle_output[oracle_output$location != "US", ]
+
+# cross-join with horizon. This is a hack to drop evaluations at horizon -1
+oracle_output <- merge(oracle_output, data.frame(horizon = 0:3))
 
 write.csv(oracle_output, "oracle-output.csv", row.names = FALSE)
