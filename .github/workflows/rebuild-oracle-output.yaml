@@ -15,7 +15,6 @@ jobs:
       - name: checkout dashboard repo, oracle-data branch
         uses: actions/checkout@v2
         with:
-          repository: "reichlab/flusight-dashboard"
           ref: "oracle-data"
       
       - name: Set up R
