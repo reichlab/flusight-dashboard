@@ -1,7 +1,7 @@
 name: "Rebuild Data"
 on:
   schedule:
-    - cron: "33 17 * * 4" # every Thursday at 5:45PM UTC == 12:33PM EST
+    - cron: "33 17 * * 4" # every Thursday at 5:33PM UTC == 12:33PM EST
   pull_request:
     branches: [main]
   push:
