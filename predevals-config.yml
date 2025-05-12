@@ -17,8 +17,6 @@ targets:
   - target_end_date
 eval_sets:
 - eval_set_name: 2024-2025 season, state level
-  round_filters:
-    min: '2024-11-30'
   task_filters:
     location:
     - "01"
@@ -106,8 +104,6 @@ eval_sets:
     - "2025-05-24"
     - "2025-05-31"
 - eval_set_name: 2024-2025 season, US national level
-  round_filters:
-    min: '2024-11-30'
   task_filters:
     location:
     - "US"
