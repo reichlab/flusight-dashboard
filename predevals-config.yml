@@ -16,7 +16,7 @@ targets:
   - horizon
   - target_end_date
 eval_sets:
-- eval_set_name: Full season (states)
+- eval_set_name: 2024-2025 season, state level
   round_filters:
     min: '2024-11-30'
   task_filters:
@@ -105,7 +105,7 @@ eval_sets:
     - "2025-05-17"
     - "2025-05-24"
     - "2025-05-31"
-- eval_set_name: Full season (US national)
+- eval_set_name: 2024-2025 season, US national level
   round_filters:
     min: '2024-11-30'
   task_filters:
@@ -143,7 +143,7 @@ eval_sets:
     - "2025-05-17"
     - "2025-05-24"
     - "2025-05-31"
-- eval_set_name: Last 4 weeks (states)
+- eval_set_name: Last 4 weeks, state level
   round_filters:
     min: '2024-11-30'
     n_last: 5
@@ -233,7 +233,7 @@ eval_sets:
     - "2025-05-17"
     - "2025-05-24"
     - "2025-05-31"
-- eval_set_name: Last 4 weeks (US national)
+- eval_set_name: Last 4 weeks, US national level
   round_filters:
     min: '2024-11-30'
     n_last: 5
