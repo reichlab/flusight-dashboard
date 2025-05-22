@@ -4,6 +4,9 @@ reference_date_col_name: 'reference_date'
 target_date_col_name: 'target_end_date'
 horizon_col_name: 'horizon'
 initial_checked_models: ['FluSight-ensemble', 'FluSight-baseline']
+initial_xaxis_range:
+  - '2024-09-01'
+  - '2025-07-01'
 task_id_text:
   location: # location,location_name
     "US": "United States"
