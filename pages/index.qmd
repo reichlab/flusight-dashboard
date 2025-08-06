@@ -12,7 +12,7 @@ This is a dashboard for the [FluSight forecasting challenge](https://github.com/
 
 The target data for the FluSight challenge is hospitalizations with influenza as reported to the National Healthcare Safety Network (NHSN); this data is publicly available through the CDC's [Weekly Hospital Respiratory Data (HRD) Metrics](https://data.cdc.gov/Public-Health-Surveillance/Weekly-Hospital-Respiratory-Data-HRD-Metrics-by-Ju/mpgq-jmmr/about_data) dataset.
 
-For the evaluations, we have excluded predictions for two reference dates that were substantively impacted by NHSN reporting issues: 2024-11-23 and 2025-01-25.
+For the evaluations, we have excluded predictions for certain locations or dates due to reporting concerns. Puerto Rico is omitted for the 2024-2025 season due to issues with data instability and backfill, and reference dates 2024-11-23 and 2025-01-25 are removed due to substantial impact from NHSN reporting issues.
 
 ::::{.callout-note}
 
