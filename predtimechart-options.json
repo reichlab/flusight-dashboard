@@ -657,7 +657,7 @@
         "CEPH-Rtrend_fluH": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/CEPH-Rtrend_fluH.yaml"
     },
     "initial_xaxis_range": [
-        "2023-09-01",
-        "2025-07-01"
+        "2024-09-01",
+        "2026-07-01"
     ]
 }
