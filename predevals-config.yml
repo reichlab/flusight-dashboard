@@ -1,5 +1,10 @@
-schema_version: https://raw.githubusercontent.com/hubverse-org/hubPredEvalsData/main/inst/schema/v1.0.1/config_schema.json
+schema_version: https://raw.githubusercontent.com/hubverse-org/hubPredEvalsData/main/inst/schema/v1.1.0/config_schema.json
 rounds_idx: 0
+transform_defaults:
+  fun: log_shift
+  args:
+    offset: 1
+  label: log
 targets:
 - target_id: wk inc flu hosp
   metrics:
