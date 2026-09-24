@@ -33,7 +33,7 @@
             0.00216548288963836
         ]
     },
-    "FluSight-ensemble": {
+    "CFA_Pyrenew-Pyrenew_E_Flu": {
         "target_end_date": [
             "2026-05-30",
             "2026-06-06"
@@ -67,7 +67,7 @@
             0.0019246134309270746
         ]
     },
-    "CFA_Pyrenew-Pyrenew_E_Flu": {
+    "FluSight-ensemble": {
         "target_end_date": [
             "2026-05-30",
             "2026-06-06"
