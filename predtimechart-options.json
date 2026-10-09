@@ -593,8 +593,8 @@
         "CFA-PyRenew_HE",
         "CFA_Pyrenew-Pyrenew_HE_Flu",
         "CMU-TimeSeries",
+        "CU-STS_Residual",
         "CU-ensemble",
-        "CUSTS-STS_Residual",
         "ChinaCDC-seasAR",
         "Cornell_JHU-SCARCHhierarSIR",
         "DMAPRIME-DLM",
@@ -663,6 +663,7 @@
         "VTSanghani-PRIME",
         "Xi_lab-GLEAM_AI",
         "Xi_lab-GLEAM_AI_hybrid",
+        "bayvaxbio-CountCast",
         "cfa-flumech",
         "cfarenewal-cfaepimlight",
         "docxology-panelqr",
@@ -683,7 +684,6 @@
         "NU-EMBERS": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/NU-EMBERS.yml",
         "GT-FluFNP": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/GT-FluFNP.yml",
         "Sentinel-Ens": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/Sentinel-Ens.yml",
-        "CUSTS-STS_Residual": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/CUSTS-STS_Residual.yml",
         "MetroCast-ensemble": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/MetroCast-ensemble.yml",
         "Xi_lab-GLEAM_AI_hybrid": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/Xi_lab-GLEAM_AI_hybrid.yml",
         "Epistorm-Ensemble_Flu": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/Epistorm-Ensemble_Flu.yml",
@@ -723,6 +723,7 @@
         "PSI-PROF_beta": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/PSI-PROF_beta.yml",
         "Cornell_JHU-SCARCHhierarSIR": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/Cornell_JHU-SCARCHhierarSIR.yml",
         "NAU-epymorph": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/NAU-epymorph.yml",
+        "bayvaxbio-CountCast": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/bayvaxbio-CountCast.yml",
         "NEU_ISI-FluBcast": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/NEU_ISI-FluBcast.yml",
         "NAU-FourCAT": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/NAU-FourCAT.yml",
         "CMU-TimeSeries": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/CMU-TimeSeries.yml",
@@ -734,6 +735,7 @@
         "UMass-peakGB": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/UMass-peakGB.yml",
         "CFA-PyRenew_E": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/CFA-PyRenew_E.yml",
         "ISU_NiemiLab-NLH": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/ISU_NiemiLab-NLH.yml",
+        "CU-STS_Residual": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/CU-STS_Residual.yml",
         "JGracey-prime_radiant": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/JGracey-prime_radiant.yml",
         "FluSight-ensemble": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/FluSight-ensemble.yml",
         "NEU_ISI-AdaptiveEnsemble": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/NEU_ISI-AdaptiveEnsemble.yml",
@@ -760,7 +762,7 @@
         "Metaculus-cp": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/Metaculus-cp.yaml"
     },
     "initial_xaxis_range": [
-        "2024-09-01",
-        "2026-07-01"
+        "2026-08-01",
+        "2027-07-01"
     ]
 }
