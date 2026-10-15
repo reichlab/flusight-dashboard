@@ -545,7 +545,8 @@
             "2026-05-16",
             "2026-05-23",
             "2026-05-30",
-            "2026-10-10"
+            "2026-10-10",
+            "2026-10-17"
         ],
         "wk inc flu prop ed visits": [
             "2025-11-22",
@@ -576,11 +577,12 @@
             "2026-05-16",
             "2026-05-23",
             "2026-05-30",
-            "2026-10-10"
+            "2026-10-10",
+            "2026-10-17"
         ]
     },
-    "initial_as_of": "2026-10-10",
-    "current_date": "2026-10-10",
+    "initial_as_of": "2026-10-17",
+    "current_date": "2026-10-17",
     "models": [
         "FluSight-baseline",
         "FluSight-ensemble",
@@ -622,6 +624,7 @@
         "MIGHTE-Nsemble",
         "MOBS-EpyStrain_Flu",
         "MOBS-GLEAM_FLUH",
+        "MOBS-GLEAM_NCB_FLUH",
         "MOBS-GLEAM_RL_FLUH",
         "Metaculus-cp",
         "MetroCast-ensemble",
@@ -648,7 +651,6 @@
         "SigSci-TSENS",
         "Stevens-GBR",
         "Stevens-ILIForecast",
-        "UGA_CEID-Walk",
         "UGA_CEID-auto_AVG_LB",
         "UGA_flucast-INFLAenza",
         "UGuelphensemble-GRYPHON",
@@ -696,6 +698,7 @@
         "DMAPRIME-HYB": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/DMAPRIME-HYB.yml",
         "UMass-flusion": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/UMass-flusion.yml",
         "NU_UCSD-GLEAM_AI_FLUH": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/NU_UCSD-GLEAM_AI_FLUH.yml",
+        "MOBS-GLEAM_NCB_FLUH": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/MOBS-GLEAM_NCB_FLUH.yml",
         "cfarenewal-cfaepimlight": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/cfarenewal-cfaepimlight.yml",
         "CADPH-FluCAT_Ensemble": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/CADPH-FluCAT_Ensemble.yml",
         "NAU_PyBNF-GroundHogCGR": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/NAU_PyBNF-GroundHogCGR.yml",
@@ -727,7 +730,6 @@
         "NEU_ISI-FluBcast": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/NEU_ISI-FluBcast.yml",
         "NAU-FourCAT": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/NAU-FourCAT.yml",
         "CMU-TimeSeries": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/CMU-TimeSeries.yml",
-        "UGA_CEID-Walk": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/UGA_CEID-Walk.yml",
         "UGA_CEID-auto_AVG_LB": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/UGA_CEID-auto_AVG_LB.yml",
         "MOBS-GLEAM_FLUH": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/MOBS-GLEAM_FLUH.yml",
         "UVAFluX-Ensemble": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/UVAFluX-Ensemble.yml",
