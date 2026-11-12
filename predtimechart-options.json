@@ -549,7 +549,8 @@
             "2026-10-17",
             "2026-10-24",
             "2026-10-31",
-            "2026-11-07"
+            "2026-11-07",
+            "2026-11-14"
         ],
         "wk inc flu prop ed visits": [
             "2025-11-22",
@@ -584,11 +585,12 @@
             "2026-10-17",
             "2026-10-24",
             "2026-10-31",
-            "2026-11-07"
+            "2026-11-07",
+            "2026-11-14"
         ]
     },
-    "initial_as_of": "2026-11-07",
-    "current_date": "2026-11-07",
+    "initial_as_of": "2026-11-14",
+    "current_date": "2026-11-14",
     "models": [
         "FluSight-ensemble",
         "ACCIDDA-Chromantis",
@@ -654,6 +656,7 @@
         "NU_UCSD-GLEAM_AI_FLUH",
         "OHTJHU-FLUFFHEAD",
         "OHT_JHU-nbxd",
+        "Ozgen-GBQR",
         "PSI-CAT_MOA",
         "PSI-PROF",
         "PSI-PROF_MOA",
@@ -704,6 +707,7 @@
         "NAU-epymorph": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/NAU-epymorph.yml",
         "docxology-panelqr": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/docxology-panelqr.yml",
         "ACCIDDA-insightcast": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/ACCIDDA-insightcast.yml",
+        "Ozgen-GBQR": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/Ozgen-GBQR.yml",
         "MIGHTE-Nsemble": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/MIGHTE-Nsemble.yml",
         "Epistorm-Ensemble_Flu": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/Epistorm-Ensemble_Flu.yml",
         "MOBS-GLEAM_RL_FLUH": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/MOBS-GLEAM_RL_FLUH.yml",
