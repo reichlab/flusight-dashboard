@@ -673,6 +673,7 @@
         "UGuelphensemble-GRYPHON",
         "UI_CompEpi-EpiGen",
         "UM-DeepOutbreak",
+        "UMass-axial_r2",
         "UMass-flusion",
         "UMass-peakGB",
         "UNC_IDD-InfluPaint",
@@ -686,7 +687,8 @@
         "cfa-flumech",
         "cfarenewal-cfaepimlight",
         "docxology-panelqr",
-        "fjordhest-ensemble"
+        "fjordhest-ensemble",
+        "reasonspire-lagQR"
     ],
     "initial_checked_models": [
         "FluSight-ensemble"
@@ -709,6 +711,7 @@
         "ACCIDDA-insightcast": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/ACCIDDA-insightcast.yml",
         "Ozgen-GBQR": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/Ozgen-GBQR.yml",
         "MIGHTE-Nsemble": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/MIGHTE-Nsemble.yml",
+        "reasonspire-lagQR": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/reasonspire-lagQR.yml",
         "Epistorm-Ensemble_Flu": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/Epistorm-Ensemble_Flu.yml",
         "MOBS-GLEAM_RL_FLUH": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/MOBS-GLEAM_RL_FLUH.yml",
         "UNC_IDD-InfluPaint": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/UNC_IDD-InfluPaint.yml",
@@ -737,6 +740,7 @@
         "Google_SAI-FluEns": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/Google_SAI-FluEns.yml",
         "VTSanghani-PRIME": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/VTSanghani-PRIME.yml",
         "PSI-CAT_MOA": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/PSI-CAT_MOA.yml",
+        "UMass-axial_r2": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/UMass-axial_r2.yml",
         "MetroCast-ensemble": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/MetroCast-ensemble.yml",
         "NU_UCSD-GLEAM_AI_FLUH": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/NU_UCSD-GLEAM_AI_FLUH.yml",
         "CFA_Pyrenew-Pyrenew_HE_Flu": "https://github.com/cdcepi/FluSight-forecast-hub/blob/main/model-metadata/CFA_Pyrenew-Pyrenew_HE_Flu.yml",
